@@ -1,12 +1,10 @@
-# cskaoyan
 提供计算机和软件工程专业的各个学校 考研初试真题  
 关键字： 计算机考研 软件考研 考研真题
 
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)
-[![微信公众号](https://img.shields.io/badge/微信公众号-计算机与软件考研-orange.svg)](https://mp.weixin.qq.com/s/XEDNu1HqqY8QKWlSZS4fpA) 
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/) 
 [![知乎](https://img.shields.io/badge/知乎-计算机与软件考研-blue.svg)](https://www.zhihu.com/people/csseky/)   
 
-正在更新中，如果有真题想要分享，可以提交给cssekaoyan@qq.com，也可以在issue中提供链接。  
+正在更新中，如果有真题想要分享，可以提交给con@rhinecho.com，也可以在issue中提供链接。  
 
 [【致谢名单】](Acknowledgement.md) 感谢真题来源和一些提供真题的同学信息。  
 
